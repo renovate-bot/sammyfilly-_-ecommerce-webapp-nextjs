@@ -73,7 +73,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "husky": "^8.0.2",
+    "husky": "^9.0.0",
     "i18next": "^21.9.2",
     "i18next-http-backend": "^1.4.4",
     "lint-staged": "^13.0.3",
